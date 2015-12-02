@@ -41,6 +41,7 @@ canvas {
   position: fixed;
   bottom: 41pt;
   right: 41pt;
+  text-decoration: none;
 }
 
 #container {
