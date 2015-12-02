@@ -36,6 +36,13 @@ canvas {
   margin-top:119px;
 }
 
+#social {
+  color: white;
+  position: fixed;
+  bottom: 41pt;
+  right: 41pt;
+}
+
 #container {
 	
 }
